@@ -1,0 +1,16 @@
+# html page er 3 ta ongsho:
+1.header
+2.main
+3.footer
+
+# for copyright symbol:
+&copy;
+
+# for opening link in a new page:
+target:"_blank"
+
+# for tab/fav icon:
+<link rel="icon" href="Photos/ralph-avatar.jpeg">
+*inside href, i have to put the image or the icons link.
+
+# 
